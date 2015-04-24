@@ -55,6 +55,7 @@ public class samplehome extends javax.swing.JFrame {
             }
         });
 
+        jLabel3.setForeground(new java.awt.Color(78, 174, 213));
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("author by Muhammad Faris");
         jLabel3.setBorder(javax.swing.BorderFactory.createEtchedBorder());
